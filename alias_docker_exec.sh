@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Edit/create the bash_aliases file:
 #$ vi ~/.bash_aliases
 
